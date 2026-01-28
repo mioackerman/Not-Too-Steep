@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 485a9890cd2879543a1b3feee9f45a4c
+timeCreated: 1523004562
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117287
+  packageName: WinterZone-Mountains
+  packageVersion: 1.0
+  assetPath: Assets/WinterZone-Mountains/UnityTerrains/TerrainMountain_1_4k/TerrainMountains_1_heightmap_4k.raw
+  uploadId: 242149

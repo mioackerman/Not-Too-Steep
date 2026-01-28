@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73ac7610766b96e45a15752292ad391a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184376
+  packageName: Male Skier Animated
+  packageVersion: 1.0
+  assetPath: Assets/Male_Skier/AnimatorController/Male_Skier_Animator_Controller.controller
+  uploadId: 406633

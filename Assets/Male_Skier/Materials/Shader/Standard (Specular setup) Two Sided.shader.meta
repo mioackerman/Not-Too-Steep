@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4baccf9d0e1d66a499ba709876eddd84
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184376
+  packageName: Male Skier Animated
+  packageVersion: 1.0
+  assetPath: Assets/Male_Skier/Materials/Shader/Standard (Specular setup) Two Sided.shader
+  uploadId: 406633

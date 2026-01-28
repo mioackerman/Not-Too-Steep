@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03ed903b26fc7b0478d698cb79b831d0
+timeCreated: 1523013210
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117287
+  packageName: WinterZone-Mountains
+  packageVersion: 1.0
+  assetPath: Assets/WinterZone-Mountains/Prefabs/UnityTerrains/TerrainMountain_1_4k.prefab
+  uploadId: 242149

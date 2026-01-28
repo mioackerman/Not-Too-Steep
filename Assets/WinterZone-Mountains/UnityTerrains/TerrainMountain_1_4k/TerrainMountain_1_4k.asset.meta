@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b997feaa40085f149ab9822f479819cf
+timeCreated: 1523004001
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117287
+  packageName: WinterZone-Mountains
+  packageVersion: 1.0
+  assetPath: Assets/WinterZone-Mountains/UnityTerrains/TerrainMountain_1_4k/TerrainMountain_1_4k.asset
+  uploadId: 242149
