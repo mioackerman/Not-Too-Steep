@@ -1,6 +1,6 @@
 Not too steep
 
-A Ski game.
+A Ski game build with Unity.
 
 How to play:
 
